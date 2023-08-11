@@ -4,7 +4,6 @@ import './Expenses.css'
 
 const Expenses = (props) =>{
     return <Card className = "expenses">
-        <h1>Hello, Aydid</h1>
       <ExpenseItem
        title = {props.item[0].title}
        amount = {props.item[0].amount} 
