@@ -19,7 +19,7 @@ const Dummy_Expense = [
   },
   {
     id : 'e3',
-    date: new Date(2023,7,19),
+    date: new Date(2022,7,19),
     title: "Laptop",
     amount: 500.0
   }
